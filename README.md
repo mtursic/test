@@ -1,2 +1,2 @@
-# test
-Test repository
+# test-repository
+Test repository description
